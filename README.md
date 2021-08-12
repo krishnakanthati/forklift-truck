@@ -1,1 +1,1 @@
-# 3D Forklift Truck View using OpenGL
+# 3D Forklift Truck View
